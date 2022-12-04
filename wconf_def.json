@@ -1,0 +1,11 @@
+{
+  "git": [
+    {
+      "server": "github.com",
+      "name": "downstream",
+      "git": ":matu3ba/testing.git",
+      "dir": "testing",
+      "branch": "master"
+    }
+  ]
+}
