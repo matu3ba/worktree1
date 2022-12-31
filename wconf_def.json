@@ -3,8 +3,15 @@
     {
       "server": "github.com",
       "name": "downstream",
-      "git": ":matu3ba/testing.git",
+      "git": "matu3ba/testing",
       "dir": "testing",
+      "branch": "master"
+    },
+    {
+      "server": "github.com",
+      "name": "downstream",
+      "git": "matu3ba/testing",
+      "dir": "testing2",
       "branch": "master"
     }
   ]
