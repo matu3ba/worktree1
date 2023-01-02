@@ -35,7 +35,7 @@ root in $HOME for faster access. Otherwise, the same properties as a monorepo ap
 #### Overview
 
 - wconf.py | wconf.zig
-- only git uris, ie `git@github.com:neovim/neovim.git`, but simple to add
+- only git uris, ie `git@github.com:neovim/neovim.git`, but simple to extend
 
 #### Setup of Worktrees and Git path access commands
 
