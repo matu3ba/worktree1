@@ -2,6 +2,7 @@
 
 Idea: Root is configuration and test runner, children git worktrees. 1-level nested git repo.
 
+```
 Root as configuration + build and test runner
                │
       ┌─────┬──┴───┬───────┐   ....
@@ -11,6 +12,7 @@ Root as configuration + build and test runner
     ┌─┴─┐  ....
     ▼   ▼
    wt1 wt2                       worktrees: branches
+```
 
 Advantage: Fast swapping of branches, simpler for (decentralized) experimentation
 on multiple parts. Biggest advantage from my point of view: Helper scripts for
